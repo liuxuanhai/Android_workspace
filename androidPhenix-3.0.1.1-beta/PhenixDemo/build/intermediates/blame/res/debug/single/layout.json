@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_load_content.xml",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\layout\\activity_test_load_content.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_content.xml",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\layout\\activity_main_content.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\layout\\head_title_layout.xml",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\layout\\head_title_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_load.xml",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\layout\\activity_test_load.xml"
+    }
+]

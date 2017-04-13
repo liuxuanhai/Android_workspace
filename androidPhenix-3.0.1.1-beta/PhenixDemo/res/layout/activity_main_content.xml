@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fadingEdge="vertical"
+            android:scrollbarSize="1dip"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+        <!-- 直接下载图片的测试-->
+        <TextView
+            style="@style/style_textview_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_title1" />
+
+        <TextView
+            style="@style/style_textview_describe_default"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:minLines="2"
+            android:text="@string/text_load_direct_des" />
+
+        <Button
+            android:id="@+id/button_load_direct_test"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_load_direct_test" />
+
+
+        <!-- 通过图片库下载图片的测试-->
+        <TextView
+            android:id="@+id/textview_title2"
+            style="@style/style_textview_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_title2" />
+
+        <TextView
+            style="@style/style_textview_describe_default"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:minLines="2"
+            android:text="@string/text_load_phenix_des"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/button_load_phenix_test"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_load_phenix_test" />
+
+        <!-- 通过图片库加载自定义图片的测试-->
+        <TextView
+            android:id="@+id/textview_title3"
+            style="@style/style_textview_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_title3" />
+
+        <TextView
+            style="@style/style_textview_describe_default"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:minLines="2"
+            android:text="@string/text_load_define_img_des"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/button_load_define_img_test"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_load_define_img_test" />
+    </LinearLayout>
+</ScrollView>

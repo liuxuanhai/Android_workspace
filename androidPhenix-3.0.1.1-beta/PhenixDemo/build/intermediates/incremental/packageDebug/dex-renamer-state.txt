@@ -1,0 +1,7 @@
+#Thu Apr 13 14:58:17 CST 2017
+base.0=E\:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84c896150bf34fed112f54f8a78936cac03b6456
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc87a26fd643c790b2d4d6b0d4ad4a010097fbc4\\classes.dex
+base.1=E\:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc87a26fd643c790b2d4d6b0d4ad4a010097fbc4
+file.0=E\:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84c896150bf34fed112f54f8a78936cac03b6456\\classes.dex

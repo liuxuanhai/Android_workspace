@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8438ed68392729729b389907e9315bc0324f260">
+        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b032f19550cf8dbf4729eccc5d7f32145300eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\Media_AndroidDemo_Mini\libs\mediaservice-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6492817c1b6e3e7aaa4f85b9a842c5e630a5952a">
+        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\2\mediaservice-4.2.2_d12080f9111caa377febf7f002c5aca689004623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1de85cfac0d9976ee93a461d1c3656a2bba4c5f1">
+        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f4934c68b6597e0de78ee5f72a716dd5afb9727a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1102981881073"
+    token="-3767199656013004723"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3566" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="301" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\outputs\apk\PhenixDemo-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1102981881073"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\outputs\apk\PhenixDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

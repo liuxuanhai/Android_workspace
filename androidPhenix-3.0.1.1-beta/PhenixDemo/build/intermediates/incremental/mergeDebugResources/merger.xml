@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="3.0.1.1-SNAPSHOT$Generated" generated="true"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res"/><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\generated\res\rs\debug"/><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\src\debug\res"/></dataSet><dataSet config="3.0.1.1-SNAPSHOT" from-dependency="true" generated-set="3.0.1.1-SNAPSHOT$Generated"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res"><file name="icon_left_arrow" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable\icon_left_arrow.png" qualifiers="" type="drawable"/><file name="icon_loading" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable\icon_loading.png" qualifiers="" type="drawable"/><file name="image_load_failed" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable\image_load_failed.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="error" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-xhdpi\error.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_main_content" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\layout\activity_main_content.xml" qualifiers="" type="layout"/><file name="activity_test_load" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\layout\activity_test_load.xml" qualifiers="" type="layout"/><file name="activity_test_load_content" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\layout\activity_test_load_content.xml" qualifiers="" type="layout"/><file name="head_title_layout" path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\layout\head_title_layout.xml" qualifiers="" type="layout"/><file path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\values\colors.xml" qualifiers=""><color name="color_main_background">#FFFFFF</color></file><file path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\values\dimens.xml" qualifiers=""><dimen name="head_panel_logo_size">42dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="head_panel_height">48dp</dimen></file><file path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\values\strings.xml" qualifiers=""><string name="text_title1">直接下载图片</string><string name="text_title_test_load_direct">直接下载图片</string><string name="text_load_define_img_test">通过图片库加载自定义图片示例</string><string name="text_title_test_load_phenix">基于图片库下载图片</string><string name="text_title3">通过图片库加载自定义图片</string><string name="text_title2">通过图片库下载图片</string><string name="app_name">PhenixDemo</string><string name="text_load_direct_des">注：通过网络直接下载图片。在图片比较大或网络条件较差时，会导致下载图片速度很慢。</string><string name="text_load_image_detail">图片下载详细说明</string><string name="head_middle_default">多媒体图片库</string><string name="text_title_test_load_define_img">基于图片库加载自定义图片</string><string name="head_image_default_des">Default icon</string><string name="imageview_default_des">Default Image</string><string name="text_load_direct_test">直接下载图片示例</string><string name="detail_load_define_img">本示例基于图片库(MediaPhenix)加载自定义的网络图片(%s)。本示例根据自定义的大小，指定需要从
+        百川多媒体空间加载的图片尺寸，服务端会生成合适大小的图片并返回。在图片很大或者网络条件较差时，可以指定较小的图片尺寸或质量，
+        以加快下载图片的速度。</string><string name="text_load_phenix_test">通过图片库下载图片示例</string><string name="text_load_image_res">图片下载结果统计</string><string name="detail_load_direct">本示例基于HttpURLConnection加载图片(%s)。在加载时，若文件较大或者网络较差，会导致下载图片时间很长。
+        若图片过大，还需要花费时间进行压缩。由于无本地缓存，会导致每次加载图片都要进行网络请求。</string><string name="text_load_phenix_des">注：通过图片库(MediaPhenix)加载网络图片。在首次下载图片后，对图片进行缓存。
+        若需要再次加载图片时，则直接从缓存中加载，能够提高图片加载和显示的速度。</string><string name="text_load_define_img_des">注：通过图片库(MediaPhenix)加载自定义的网络图片。能够根据需要，加载指定尺寸或分辨率的图片。
+        在图片比较大或网络条件较差时，设置较小尺寸或较低质量，能够快速加载图片。</string><string name="detail_load_phnix">本示例基于图片库(MediaPhenix)加载图片(%s)。在首次加载时，通过网络下载指定的图片，下载成功的图片会被缓存
+        (内存+磁盘)。当重复请求时，能够直接从缓存获取已有图片，以加快图片加载的速度。</string></file><file path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\values\styles.xml" qualifiers=""><style name="head_background">
+        <item name="android:background">#333333</item>
+    </style><style name="style_textview_describe_default">
+        <item name="android:background">#DDF</item>
+        <item name="android:textColor">#888</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:gravity">left</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="style_textview_title">
+        <item name="android:background">#336</item>
+        <item name="android:textColor">#EEE</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:gravity">left</item>
+    </style><style name="style_textview_result_red">
+        <item name="android:background">#EFE</item>
+        <item name="android:textColor">#F66</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="style_textview_result_default">
+        <item name="android:background">#EFE</item>
+        <item name="android:textColor">#33E</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:gravity">center</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.NoTitleBar">
+        
+    </style></file><file path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\generated\res\rs\debug"/><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\src\debug\res"/></dataSet><mergedItems/></merger>

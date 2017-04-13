@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ralatelayoutshow"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#EEE"
+    android:gravity="center_horizontal" >
+
+    <!-- 顶部浏览按钮 -->
+
+    <LinearLayout
+        android:id="@+id/showLayTop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/imageload_button"
+            style="?android:attr/buttonStyleInset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/orange_bt_style"
+            android:padding="13dp"
+            android:text="@string/imageload_text"
+            android:textSize="24sp"
+            android:typeface="monospace" />
+    </LinearLayout>
+
+    <!-- 中间图片展示区域 -->
+
+    <RelativeLayout
+        android:id="@+id/id_showLayContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/showLayTop"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/id_URLView"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:background="#F90"
+            android:text="@string/imageload_time"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" >
+        </TextView>
+
+        <ImageView
+            android:id="@+id/id_image_show_panel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/id_URLView"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="30dp"
+            android:contentDescription="@string/image_default_des"
+            android:src="@drawable/default_img" />
+    </RelativeLayout>
+
+</RelativeLayout>

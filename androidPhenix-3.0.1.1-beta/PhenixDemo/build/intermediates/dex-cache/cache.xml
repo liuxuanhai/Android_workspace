@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\TCommon-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bc999d8873bd22c07e6c901bf9f8a9b7f0b48c6">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\TCommon-1.0.0-SNAPSHOT_e81a0d21f5b16268f48eaa27ba17ff2be63fa4f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\fastjson-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="608482a70ccc6b889292378bfab68f7ef19d42c4">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\fastjson-1.2.3_18bde7db98ca1f79cac9027d9d941d4cb2e73e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\Storage-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1d531e130d512150fd6989fb86563971626b957">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\Storage-1.0.0-SNAPSHOT_1c4e2ccb96f97f4d35c390bcacd579ae5df61fc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\RxModel-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="faeef11022e9635c625d87c4ac8a1afddd56c29c">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\RxModel-1.0.0-SNAPSHOT_290b5bd1a7a6bf0efd65f7a62fb4c0bf3ae46b93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2739b14a6ff6ea8086211412fa63fd71093c2737">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_84c896150bf34fed112f54f8a78936cac03b6456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\image_strategy-1.7.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a696a194d76eb740e66c06bd1426e3d872d6299">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\image_strategy-1.7.0-SNAPSHOT_0138b25543abba4ed0e8ab067d9314ab50fe7b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\alisdk-ut-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cd69def504e8bbd4956fdb08d8443da4b0b52ba">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\alisdk-ut-5_a64a08fbb4303d1199ed74d1dd12d6e678eea683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\Phenix-3.0.1.1-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8b421e67ec3690ec1a94be1fff2c6f6517a94bc">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\Phenix-3.0.1.1-SNAPSHOT_5167b68f6308a09451c2d6aa49296688b3b61787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be7120d61a1fbc740afb98cbfb771d8ecceb89a6">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dc87a26fd643c790b2d4d6b0d4ad4a010097fbc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\utdid4all-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d58701f32ca13f8d4de68492d24843d8a9290687">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\utdid4all-1.0.4_c8c702b91e21a459b3fcf0d7435a7fbd3f4f05eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\exploded-aar\PhenixDemo\MediaPhenix\3.0.1.1-SNAPSHOT\jars\libs\tlog_adapter-1.0.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54abab533d8a7bc478eb70bff7d47169be0fe1d7">
+        <dex dex="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\intermediates\transforms\dex\debug\folders\1000\8\tlog_adapter-1.0.4.4_219c98488f760152b01792a9051c004d648795ba\classes.dex" />
+    </item>
+
+</items>

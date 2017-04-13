@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">多媒体服务</string>
+    <string name="click_info">\n\n点击进入>></string>
+    <string name="image_default_des">默认图片</string>
+    <string name="image_total_size">总文件大小:</string>
+    <string name="image_upload_faild">上传失败</string>
+    <string name="image_upload_rate">上传进度:</string>
+    <string name="image_upload_size">已上传大小:</string>
+    <string name="image_upload_time">耗时:</string>
+    <string name="image_web_url">URL:</string>
+    <string name="imageload_text">点击加载图片</string>
+    <string name="imageload_time">加载图片耗时:</string>
+    <string name="imagescan_text">选择文件</string>
+    <string name="mediaserver_info">媒体云服务</string>
+    <string name="upload_cancel_text">取消上传</string>
+    <string name="upload_compress_text">压缩上传</string>
+    <string name="upload_filepath">文件路径:</string>
+    <string name="upload_goon_text">继续上传</string>
+    <string name="upload_pause_text">暂停上传</string>
+    <string name="uploadimage_text">直接上传</string>
+    <string name="wartermask_text">文字图片水印</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

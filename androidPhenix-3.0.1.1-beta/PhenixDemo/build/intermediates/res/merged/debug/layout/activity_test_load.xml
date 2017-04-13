@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 测试结果展示页面 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/color_main_background"
+              android:orientation="vertical" >
+    <!-- 顶部标题栏 -->
+    <com.alibaba.media.phenixdemo.util.HeadTitleView
+        android:id="@+id/head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/head_panel_height" />
+
+    <!-- 滚动展示区-->
+    <include layout="@layout/activity_test_load_content"/>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_loading.png",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\drawable\\icon_loading.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\image_load_failed.png",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\drawable\\image_load_failed.png"
+    },
+    {
+        "merged": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_left_arrow.png",
+        "source": "E:\\workspace\\androidPhenix-3.0.1.1-beta\\PhenixDemo\\res\\drawable\\icon_left_arrow.png"
+    }
+]
