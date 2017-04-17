@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\AMap_Android_API_3DMap_Demo\app\libs\AMap_Search_V5.0.0_20170309.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="315a916b8186d7c5496a81cf683455c558196a1d">
+        <dex dex="E:\workspace\AMap_Android_API_3DMap_Demo\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.0.0_20170309_e4d8ec911264bd8aa76cc73cd5ef0f1487ca4f75.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AMap_Android_API_3DMap_Demo\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="E:\workspace\AMap_Android_API_3DMap_Demo\app\build\intermediates\pre-dexed\debug\android-support-v4_cb56dc0d95b4fe576d9352aaf133ea56511eb7e5.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AMap_Android_API_3DMap_Demo\app\libs\Volley.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="E:\workspace\AMap_Android_API_3DMap_Demo\app\build\intermediates\pre-dexed\debug\Volley_77ef9dda2b5cdf070d68ca506aff36260986af2b.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AMap_Android_API_3DMap_Demo\app\libs\Android_Map3D_SDK_V5.0.0_20170311.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1138283bb2b30bbf424a02eeeadab84edfc1571c">
+        <dex dex="E:\workspace\AMap_Android_API_3DMap_Demo\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.0.0_20170311_2368238fcdbfb20352960dceb873f9586eb06615.jar" />
+    </item>
+
+</items>

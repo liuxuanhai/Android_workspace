@@ -1,7 +1,7 @@
-#Thu Apr 13 09:35:54 CST 2017
-base.0=D\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9b032f19550cf8dbf4729eccc5d7f32145300eea
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f4934c68b6597e0de78ee5f72a716dd5afb9727a\\classes.dex
-base.1=D\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f4934c68b6597e0de78ee5f72a716dd5afb9727a
-file.0=D\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9b032f19550cf8dbf4729eccc5d7f32145300eea\\classes.dex
+#Mon Apr 17 09:12:31 CST 2017
+base.0=E\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_82a87a98d373abb7bffd025372e6965bca7ce60d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ae61e255127bc3520769709027134791c0a5128\\classes.dex
+base.1=E\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1ae61e255127bc3520769709027134791c0a5128
+file.0=E\:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_82a87a98d373abb7bffd025372e6965bca7ce60d\\classes.dex

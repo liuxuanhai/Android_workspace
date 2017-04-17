@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\workspace\Media_AndroidDemo_Mini\libs"><file name="mediaservice-4.2.2.jar" path="D:\workspace\Media_AndroidDemo_Mini\libs\mediaservice-4.2.2.jar"/></source></dataSet><dataSet config="debug"><source path="D:\workspace\Media_AndroidDemo_Mini\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\workspace\Media_AndroidDemo_Mini\libs"><file name="mediaservice-4.2.2.jar" path="E:\workspace\Media_AndroidDemo_Mini\libs\mediaservice-4.2.2.jar"/></source></dataSet><dataSet config="debug"><source path="E:\workspace\Media_AndroidDemo_Mini\src\debug\jniLibs"/></dataSet></merger>

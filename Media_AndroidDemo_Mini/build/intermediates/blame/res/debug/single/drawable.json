@@ -1,71 +1,15 @@
 [
     {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\img_upload_black.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\img_upload_black.png"
-    },
-    {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\black_bt_bg.png",
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\black_bt_bg.png"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_press_bg.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_press_bg.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_bg.png"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_bg.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_bg.png"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\default_img.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\default_img.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_press_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_press_bg.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\black_bt_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\black_bt_bg.png"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_press_bg.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_press_bg.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\color_tab_style.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\color_tab_style.xml"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_hosttab_lable.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\dark_hosttab_lable.png"
-    },
-    {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\color_tab_style.xml",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\color_tab_style.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_samll_style.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_samll_style.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_press_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_press_bg.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_hosttab_lable.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\dark_hosttab_lable.png"
     },
     {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_samll_style.xml",
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_samll_style.xml"
     },
     {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_style.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_style.xml"
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_press_bg.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_press_bg.png"
     },
     {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_style.xml",
@@ -76,31 +20,35 @@
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\black_bt_press_bg.png"
     },
     {
-        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_bg.png",
-        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_bg.png"
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_bg.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_bg.png"
     },
     {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\black_bt_press_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\black_bt_press_bg.png"
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\default_img.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\default_img.png"
+    },
+    {
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_bg.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_bg.png"
     },
     {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\image_loading_logo.jpg",
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\image_loading_logo.jpg"
     },
     {
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_press_bg.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_press_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_hosttab_lable.png",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\dark_hosttab_lable.png"
+    },
+    {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\img_upload_black.png",
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\img_upload_black.png"
     },
     {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bt_small_bg.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\orange_bt_small_bg.png"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\image_loading_logo.jpg",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\image_loading_logo.jpg"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\default_img.png",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\default_img.png"
+        "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\drawable\\color_tab_style.xml",
+        "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\drawable\\color_tab_style.xml"
     }
 ]

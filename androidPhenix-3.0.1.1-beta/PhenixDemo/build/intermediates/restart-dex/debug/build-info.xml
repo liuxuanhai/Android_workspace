@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1102981881073"
+    timestamp="8970896096138"
     token="-3767199656013004723"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="3566" />
+        duration="3125" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="301" />
+        duration="0" />
     <task
         name="verifier"
-        duration="27" />
+        duration="0" />
 
     <artifact
         location="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\outputs\apk\PhenixDemo-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1102981881073"
+        timestamp="8970896096138"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\workspace\androidPhenix-3.0.1.1-beta\PhenixDemo\build\outputs\apk\PhenixDemo-debug.apk"

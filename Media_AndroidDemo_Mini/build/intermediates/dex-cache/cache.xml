@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="E:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c8438ed68392729729b389907e9315bc0324f260">
-        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b032f19550cf8dbf4729eccc5d7f32145300eea\classes.dex" />
+        sha1="613365817119bb01a3837af3f5fd45457f01efb5">
+        <dex dex="E:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_82a87a98d373abb7bffd025372e6965bca7ce60d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\workspace\Media_AndroidDemo_Mini\libs\mediaservice-4.2.2.jar"
+        jar="E:\workspace\Media_AndroidDemo_Mini\libs\mediaservice-4.2.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6492817c1b6e3e7aaa4f85b9a842c5e630a5952a">
-        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\2\mediaservice-4.2.2_d12080f9111caa377febf7f002c5aca689004623\classes.dex" />
+        <dex dex="E:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\2\mediaservice-4.2.2_78f564c5d09e5abe6b76cc20235b149b94fccbfb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\workspace\Media_AndroidDemo_Mini\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1de85cfac0d9976ee93a461d1c3656a2bba4c5f1">
-        <dex dex="D:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f4934c68b6597e0de78ee5f72a716dd5afb9727a\classes.dex" />
+        sha1="616c46946f27e250a2e2fb0f7e49b593d2fb9fc7">
+        <dex dex="E:\workspace\Media_AndroidDemo_Mini\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1ae61e255127bc3520769709027134791c0a5128\classes.dex" />
     </item>
 
 </items>

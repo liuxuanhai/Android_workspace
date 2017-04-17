@@ -1,27 +1,7 @@
 [
     {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_image_upload_layout.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\media_image_upload_layout.xml"
-    },
-    {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_image_upload_layout.xml",
         "source": "E:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\media_image_upload_layout.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_server_layout.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\media_server_layout.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_image_load_layout.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\media_image_load_layout.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\activity_index_gallery_item.xml"
-    },
-    {
-        "merged": "D:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_main_layout.xml",
-        "source": "D:\\workspace\\Media_AndroidDemo_Mini\\res\\layout\\media_main_layout.xml"
     },
     {
         "merged": "E:\\workspace\\Media_AndroidDemo_Mini\\build\\intermediates\\res\\merged\\debug\\layout\\media_server_layout.xml",
