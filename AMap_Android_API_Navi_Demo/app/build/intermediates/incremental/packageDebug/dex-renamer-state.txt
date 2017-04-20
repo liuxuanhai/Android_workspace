@@ -1,0 +1,7 @@
+#Thu Apr 20 09:38:55 CST 2017
+base.0=E\:\\workspace\\AMap_Android_API_Navi_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9370c2a98381d6e8821042b384919ea714c03822
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\workspace\\AMap_Android_API_Navi_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_574064933c755f502d4740d0b01ccc735fb22223\\classes.dex
+base.1=E\:\\workspace\\AMap_Android_API_Navi_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_574064933c755f502d4740d0b01ccc735fb22223
+file.0=E\:\\workspace\\AMap_Android_API_Navi_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9370c2a98381d6e8821042b384919ea714c03822\\classes.dex

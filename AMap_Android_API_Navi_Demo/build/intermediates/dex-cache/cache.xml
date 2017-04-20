@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3c384e09f0a371b4d0cff7525b556f68d9f2e246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_27f3025f7062a1b64cada759f53d3a28ed4b4e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_c89e4b8eeac33718f6c6fe35e305c674b7c8b4e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_986fd2f3f45d41235cb9133272aebeed63f55dda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_55909ba7668bbf44e70251907080b896bdfdd20d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6fb41c914bdc44931b348f81c7a337c3250b15ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\libs\AMap3DMap_5.0.0_AMapNavi_5.0.1_20170410.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39aead12087b5d124ee91bf0c36f06b0e176ea42">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap3DMap_5.0.0_AMapNavi_5.0.1_20170410_3a31a62f7295b3dbdb9c429e2891593faa951881\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_52884845d8b6bb6e1e9947ebe6db8a6a1be70900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef86d8e586f7b494fa77e0ba27e59cd06bf5f00">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9370c2a98381d6e8821042b384919ea714c03822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6f1bcb15c0c65b87ad8642a2ce4c9fe77857df2">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_574064933c755f502d4740d0b01ccc735fb22223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_02f6e663de0b4f79462686e5f781b8d5d4e4bc5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_fdb2145fdcff16a25c5788b384b19cf35fe97ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_93788ca65fa397a4494d0eecf62706c9e47a9d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_053d431190d44f31891d4ae327a19e243234cc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_05a84c0089802cf1bbb57d27a16fdb42e1624083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ebf13c644826708ee260ee16077c07563ea1da7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_36bd90049613afe294eed6d4ef020c7625bbec59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_37beffa7002f92cd0cc9d75b27922552865dc0df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_9e5f8333c2a57eb78dde69309f9129706b5d0e32\classes.dex" />
+    </item>
+
+</items>
