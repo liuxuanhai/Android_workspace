@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="586985639979220"
+    timestamp="593270616093090"
     token="3735142728458870222"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,10 +22,6 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-
     <build
         timestamp="586751974859636"
         verifier="FULL_BUILD_REQUESTED" >
@@ -34,18 +30,14 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="586887858639792"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\builds\debug\586887858639792\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
         timestamp="586985639979220"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\workspace\AMap_Android_API_Navi_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
     </build>
+    <build
+        timestamp="593270616093090"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
